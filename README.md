@@ -1,3 +1,6 @@
+The following is from an in person module I led at a user community event for an Oracle enterprise product, JD Edwards. 
+The intention of the module was to demonstrate to a technical audience how they may extend their enterprise system with a modern web framework.
+
 ## Table of Contents
 
 - [Setup](#setup)
